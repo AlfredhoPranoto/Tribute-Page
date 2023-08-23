@@ -114,6 +114,17 @@ header audio {
       font-size: 1.1rem;
       margin-top: 15px;
    }
+
+   #tribute-info > ul {
+      text-align: left;
+      max-width: 360px;
+      margin: 0 auto 20px;
+      line-height: 1.6;
+   }
+
+   #tribute-info > ul > li {
+      font-size: 1.2rem;
+   }
 }
 @media only screen and (max-width: 480px) {
    :root {
@@ -137,6 +148,11 @@ header audio {
       margin: 0 auto 20px;
       line-height: 1.6;
    }
+
+   #tribute-info > ul > li {
+      font-size: 1.2rem;
+   }
+
    header audio {
       top: 0;
       left: 6%;
@@ -146,7 +162,8 @@ header audio {
       margin: 30px 0;
    }
    #tribute-info h3 {
-      font-size: 1.1rem;
+      font-size: 1rem;
+      margin-bottom: 10px;
    }
 
    .container #img-div #img-caption {
