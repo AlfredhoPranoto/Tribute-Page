@@ -123,7 +123,7 @@ header audio {
    }
 
    #tribute-info > ul > li {
-      font-size: 1.2rem;
+      font-size: 1.3rem;
    }
 }
 @media only screen and (max-width: 480px) {
@@ -167,7 +167,7 @@ header audio {
    }
 
    .container #img-div #img-caption {
-      font-size: 1.2rem;
+      font-size: 1.25rem;
       margin-top: 0px;
    }
 
