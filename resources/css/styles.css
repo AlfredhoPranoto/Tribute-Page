@@ -120,8 +120,13 @@ header audio {
       font-size: 8px;
    }
 
+   .container #img-div {
+      padding: 10px;
+   }
+
    .container #img-div #image {
       max-width: 100%;
+      margin-bottom: 8px;
    }
    .container p {
       margin: 3px 0;
@@ -146,7 +151,7 @@ header audio {
 
    .container #img-div #img-caption {
       font-size: 1.2rem;
-      margin-top: 20px;
+      margin-top: 0px;
    }
 
    .container blockquote {
